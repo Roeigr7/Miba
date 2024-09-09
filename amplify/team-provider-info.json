@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-miba-dev-d16a6-authRole",
+      "UnauthRoleArn": "arn:aws:iam::767397815179:role/amplify-miba-dev-d16a6-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::767397815179:role/amplify-miba-dev-d16a6-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-miba-dev-d16a6-deployment",
+      "UnauthRoleName": "amplify-miba-dev-d16a6-unauthRole",
+      "StackName": "amplify-miba-dev-d16a6",
+      "StackId": "arn:aws:cloudformation:us-east-1:767397815179:stack/amplify-miba-dev-d16a6/26753e80-64b9-11ef-9936-0ef944abf52d",
+      "AmplifyAppId": "d2tudhpw6q0b5r"
+    },
+    "categories": {
+      "auth": {
+        "mibaee8d7604": {}
+      },
+      "api": {
+        "miba": {}
+      }
+    }
+  }
+}
